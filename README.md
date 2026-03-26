@@ -38,5 +38,4 @@ https://github.com/Alina45235/intern-assignment-02/releases/download/v1.0/app-de
 1. Клонируйте репозиторий:
 git clone https://github.com/Alina45235/intern-assignment-02.git
 
-### Использованные ИИ инструменты при разработке: 
-DeepSeek
+
